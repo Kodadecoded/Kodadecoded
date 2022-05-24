@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kodadecoded
-- 👀 I’m interested in ... Data Analysis, Data Science, Business Intelligence, Statistics, Python, SQL
-- 🌱 I’m currently learning ...Data Science, Data Analysis, IT Support
-- 💞️ I’m looking to collaborate on ... Projects and Portfolio
+- 👀 I’m interested in ... Data Analysis, Data Science, Business Intelligence, Statistics, Python, SQL, Machine Learning
+- 🌱 I’m currently learning ...Data Science, Data Analysis, IT Support, Machine Learning, AI
+- 💞️ I’m looking to collaborate on ... Projects, Hackathons, Webinars, and Portfolio
 - 📫 How to reach me ... www.linkedin.com/in/kevinnomichith
 
 <!---
